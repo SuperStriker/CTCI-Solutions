@@ -1,0 +1,23 @@
+history
+    1  pwd
+    2  ls
+    3  cd Downloads
+    4  pwd
+    5  git clone https://github.com/SuperStriker/CTCI-Solutions.git
+    6  cd CTCI-Solutions/
+    7  ls
+    8  cat README.md
+    9  mkdir 1.1
+   10  cd 1.1
+   11  cd ..
+   12  git status
+   13  git add 1.1
+   14  git status
+   15  git commit -m "1.1 solution"
+   16  git config user.email "anoopmartink@gmail.com"
+   17  git config user.name "Anoop Martin"
+   18  git commit -m "1.1 solution"
+   19  git status
+   20  git push
+   21  histoty
+   22  history
